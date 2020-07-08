@@ -1,0 +1,94 @@
+/* Header Section */
+#header-section {
+  background-color: #F0FFF0;
+}
+
+.nav-link {
+  color: #000 !important;
+  margin-right: 25px !important;
+}
+
+.link-green {
+  background-color: #21B573;
+  color: #fff !important;
+  border-radius: 20px;
+  padding: 8px 20px !important;
+  font-size: 15px;
+  border: none;
+}
+
+.banner img {
+  width: 80%;
+}
+
+/* Blog Section */
+#blog-section .card {
+  background-color: #F8FFFB;
+  border: none;
+  border-radius: 5px;
+}
+
+#blog-section .bg-white {
+  background-color: #fff;
+}
+
+#blog-section .card img {
+  width: 20%;
+}
+
+/* Courses Section */
+#courses-section .card {
+  border: none;
+  border-radius: 5px;
+}
+
+#courses-section .card-padding {
+  padding: 15px;
+}
+
+#courses-section .card-body {
+  padding: 0;
+}
+
+#courses-section .card-footer {
+  padding: 0;
+  border: none;
+  background-color: #fff;
+}
+
+#courses-section .card-footer img {
+  width: 10%;
+}
+
+/* Testimonial Section */
+#testimonial-section .card {
+  border: none;
+}
+
+#testimonial-section .card-body {
+  padding: 0;
+}
+
+/* Footer Sectoction */
+#footer-sectoction {
+  background-color: #282531;
+  color: #fff;
+  padding-top: 40px;
+  padding-bottom: 20px;
+}
+
+.list-group-item {
+  background-color: transparent;
+  border: none;
+  padding: 10px 0;
+}
+
+.list-group-item-action {
+  color: #fff;
+}
+
+.list-group-item-action:focus,
+.list-group-item-action:hover {
+  background-color: transparent;
+  color: lightgray;
+}
